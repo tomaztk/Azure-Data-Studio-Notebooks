@@ -21,4 +21,4 @@ And type in the correct path to the language
 Once setting up the path is completed, you can start using the **lang_py** or **lang_r** function.
 <img src="https://github.com/tomaztk/Azure-Data-Studio-Notebooks/blob/main/images/img04.png" width="800">
 
-And off you are!
+And you should be fine.
