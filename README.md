@@ -1,5 +1,5 @@
-# Azure-Data-Studio-Notebooks
-Notebooks for Microsoft Azure Data Studio
+# Azure Data Studio Notebooks
+Bundle of Notebooks for Microsoft Azure Data Studio
 
 ## 1. Using multi language selection in Azure DAta Studio Notebooks
 
